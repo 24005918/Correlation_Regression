@@ -81,7 +81,7 @@ Enter the values of Y separated by space
 10
 The Regression Y on X is Y = -0.664 ( X - 32.000) + 38.000
 ```
-![alt text](OutputGraph.png)
+<img width="576" height="432" alt="OutputGraph" src="https://github.com/user-attachments/assets/89717259-5192-4076-a6c2-a166c1c14535" />
 
 
 # Result
